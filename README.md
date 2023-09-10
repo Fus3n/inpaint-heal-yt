@@ -1,5 +1,5 @@
 # inPaint Heal
-A simple youtube video on how to re-create photoshops spot-healing tool in python
+A simple YouTube video on how to re-create Photoshop spot-healing tool in Python
 
 # Stack
 - Python 3.11
@@ -8,4 +8,4 @@ A simple youtube video on how to re-create photoshops spot-healing tool in pytho
 - numpy
 
 # Video
-....
+[How To Re-Create Photoshop's Spot Healing Tool In Python Using PyQt5 & Opencv](https://youtu.be/Ec6vB7tbKXY)
